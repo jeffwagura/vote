@@ -1,0 +1,6 @@
+{
+  "name": "StarVote - Celebrity Awards & M-Pesa Voting",
+  "description": "Celebrity awards and public voting platform with seamless M-Pesa STK push checkout, nominee showcases, live standings, and Daraja API integration architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
